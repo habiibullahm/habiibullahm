@@ -1,10 +1,8 @@
 # Hi, I'm Muhammad Habiibullah 👋
 
-**Contract Full-Stack Developer** · [PT. Dans Multi Pro](https://www.linkedin.com/company/pt-dans-multi-pro) · Jakarta, Indonesia
+**Full-Stack Developer** · [PT. Dans Multi Pro](https://www.linkedin.com/company/pt-dans-multi-pro) · Jakarta, Indonesia
 
 I build enterprise platforms with **Java/Spring Boot**, **React**, and **React Native** — backend services, admin portals, and mobile apps for telecom, survey, and field operations.
-
-Started as a **3-month Full-Stack Developer Intern** and continued as a **Contract Full-Stack Developer** based on performance.
 
 ### Key work
 
