@@ -37,7 +37,7 @@ I build enterprise platforms with **Java/Spring Boot**, **React**, and **React N
 
 💬 Ask me about **Java**, **React**, or enterprise APIs · 😄 He/Him
 
-📫 [Email](mailto:mr.habiibullahm@gmail.com) · [WhatsApp](https://api.whatsapp.com/send?phone=6285171557088) · [LinkedIn](https://www.linkedin.com/in/muhammad-habibullah/)
+📫 [Email](mailto:mr.habiibullahm@gmail.com) · [LinkedIn](https://www.linkedin.com/in/muhammad-habibullah/)
 
 ---
 
