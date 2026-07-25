@@ -30,6 +30,11 @@ I build enterprise platforms with **Java/Spring Boot**, **React**, and **React N
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
+## 🚀 Open Source Contributions
+
+* **[PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)** (11k+ 🌟)
+  * Merged PR: [#20969](https://github.com/PipedreamHQ/pipedream/pull/20969) — Added View, Update, and Delete Ticket Summary actions for Freshdesk integration.
+
 ## 🔗 Connect
 
 [![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://linktr.ee/habibullahm)
