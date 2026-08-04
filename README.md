@@ -1,21 +1,12 @@
 # Hi, I'm Muhammad Habiibullah 👋
 
-**Full-Stack Developer** · [PT. Dans Multi Pro](https://www.linkedin.com/company/pt-dans-multi-pro) · Jakarta, Indonesia
+**Full-Stack Software Engineer** · [PT. Dans Multi Pro](https://www.linkedin.com/company/pt-dans-multi-pro) · Jakarta, Indonesia
 
-I build enterprise platforms with **Java/Spring Boot**, **React**, and **React Native** — backend services, admin portals, and mobile apps for telecom, survey, and field operations.
+## About me
 
-### Key work
+Full-Stack Software Engineer building end-to-end enterprise systems. Core stack: Java/Spring Boot, React/TypeScript, React Native, and PostgreSQL. Focused on AI integrations, OWASP security, and clean architecture.
 
-- Delivered backend services, web apps, and mobile apps for enterprise platforms
-- Built secure REST APIs with **Spring Boot**, **PostgreSQL/PostGIS** (geospatial)
-- Applied **OWASP** practices: JWT, RBAC, input validation, encrypted credentials
-- Shipped admin portals with **React** & **TypeScript** (reusable components, structured state)
-- Built **React Native** apps for surveyor and community workflows
-- Integrated **Azure AD SSO**, Kafka, RabbitMQ, Redis, and AWS S3
-- Improved reliability through bug fixes, performance tuning, and resilience patterns
-- Supported the team with docs, code reviews, and onboarding
-
-## 🔥 Core stack
+## Core stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
@@ -30,12 +21,18 @@ I build enterprise platforms with **Java/Spring Boot**, **React**, and **React N
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-## 🚀 Open Source Contributions
+## Featured projects
+
+* **[task-management](https://github.com/habiibullahm/task-management)** — Fullstack personal task manager (JWT auth, task CRUD + status, PostgreSQL, CI, deployed on Render).
+  * Live UI: https://task-management-ui-qapw.onrender.com/
+  * API health: https://task-management-zmy7.onrender.com/api/v1/health
+
+## Open-source contribution
 
 * **[PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)** (11k+ 🌟)
   * Merged PR: [#20969](https://github.com/PipedreamHQ/pipedream/pull/20969) — Added View, Update, and Delete Ticket Summary actions for Freshdesk integration.
 
-## 🔗 Connect
+## Contact
 
 [![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://linktr.ee/habibullahm)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-habibullah/)

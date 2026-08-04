@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="CV — Muhammad Habiibullah, Full-Stack Software Developer (Jakarta). Public-safe: no phone number." />
+  <title>Muhammad Habiibullah — CV</title>
+  <style>
+    @page { size: A4; margin: 12mm 14mm; }
+    * { box-sizing: border-box; }
+    html, body {
+      margin: 0;
+      padding: 0;
+      font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+      font-size: 10.2pt;
+      line-height: 1.35;
+      color: #1a1a1a;
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
+    }
+    .page { width: 100%; max-width: 180mm; margin: 0 auto; padding: 8mm 0; }
+    h1 {
+      margin: 0 0 2px;
+      font-size: 20pt;
+      font-weight: 700;
+      letter-spacing: 0.3px;
+      color: #0f172a;
+    }
+    .title {
+      margin: 0 0 6px;
+      font-size: 11pt;
+      font-weight: 600;
+      color: #1e3a5f;
+    }
+    .contact {
+      margin: 0 0 10px;
+      font-size: 8.8pt;
+      color: #334155;
+    }
+    .contact a { color: #1e3a5f; text-decoration: none; }
+    .rule {
+      height: 2px;
+      background: #1e3a5f;
+      margin: 0 0 10px;
+      border: 0;
+    }
+    h2 {
+      margin: 10px 0 5px;
+      font-size: 10pt;
+      font-weight: 700;
+      letter-spacing: 0.8px;
+      text-transform: uppercase;
+      color: #1e3a5f;
+      border-bottom: 1px solid #cbd5e1;
+      padding-bottom: 2px;
+    }
+    p { margin: 0 0 6px; }
+    .summary { text-align: justify; }
+    .job-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: 8px;
+      margin: 2px 0 1px;
+    }
+    .job-head .role { font-weight: 700; font-size: 10.4pt; }
+    .job-head .dates { font-size: 9pt; color: #475569; white-space: nowrap; }
+    .company { margin: 0 0 4px; font-style: italic; color: #334155; }
+    ul {
+      margin: 0 0 4px;
+      padding-left: 16px;
+    }
+    li { margin-bottom: 3px; }
+    .skills-grid {
+      display: grid;
+      grid-template-columns: 88px 1fr;
+      gap: 2px 8px;
+      margin: 0;
+    }
+    .skills-grid .label {
+      font-weight: 700;
+      color: #1e3a5f;
+    }
+    .proj-head {
+      display: flex;
+      justify-content: space-between;
+      gap: 8px;
+      font-weight: 700;
+      margin-top: 2px;
+    }
+    .muted { color: #475569; font-weight: 400; font-size: 9pt; }
+    .links { font-size: 8.8pt; color: #334155; }
+    .links a { color: #1e3a5f; text-decoration: none; }
+    .note {
+      margin-top: 12px;
+      font-size: 8pt;
+      color: #64748b;
+    }
+    @media print {
+      .page { padding: 0; }
+      .note { display: none; }
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <h1>Muhammad Habiibullah</h1>
+    <p class="title">Full-Stack Software Developer</p>
+    <p class="contact">
+      Jakarta, Indonesia
+      · <a href="mailto:mr.habiibullahm@gmail.com">mr.habiibullahm@gmail.com</a><br />
+      <a href="https://www.linkedin.com/in/muhammad-habibullah/">linkedin.com/in/muhammad-habibullah</a>
+      · <a href="https://github.com/habiibullahm">github.com/habiibullahm</a>
+      · <a href="https://linktr.ee/habibullahm">linktr.ee/habibullahm</a>
+    </p>
+    <hr class="rule" />
+
+    <h2>Professional Summary</h2>
+    <p class="summary">
+      Full-Stack Developer with 2+ years building production enterprise web and mobile systems with
+      Java/Spring Boot, React, React Native, and TypeScript. Hands-on with secure REST APIs (JWT/RBAC),
+      PostgreSQL/PostGIS, Redis, Docker, and CI/CD. Ships features against live data,
+      owns debugging and production impact. Comfortable in cross-functional teams.
+    </p>
+
+    <h2>Professional Experience</h2>
+    <div class="job-head">
+      <div class="role">Full-Stack Developer</div>
+      <div class="dates">Apr 2024 – Present</div>
+    </div>
+    <p class="company">PT. Dans Multi Pro — Jakarta, Indonesia</p>
+    <ul>
+      <li>Engineered secure backend APIs with Java, Spring Boot, PostgreSQL, and JWT/RBAC for telecom clients, supporting high-volume user transactions.</li>
+      <li>Built partner and admin apps across web and mobile using React, TypeScript, and React Native to streamline daily business operations.</li>
+      <li>Integrated AI chat capabilities into backend services, allowing users to perform core business actions through conversational UI.</li>
+      <li>Optimized database performance and reliability by tuning complex PostgreSQL queries, implementing resilience patterns, and resolving critical production bugs.</li>
+      <li>Accelerated release quality by containerizing services with Docker and building robust integration tests using JUnit, Mockito, and Testcontainers.</li>
+    </ul>
+
+    <h2>Open Source &amp; Projects</h2>
+    <div class="proj-head">
+      <span>PipedreamHQ / pipedream — Merged Contributor</span>
+      <span class="muted">2026</span>
+    </div>
+    <ul>
+      <li>Merged PR <a href="https://github.com/PipedreamHQ/pipedream/pull/20969"><strong>#20969</strong></a>: Freshdesk actions — View, Update, and Delete Ticket Summary (production integration components on an 11k+ ★ open-source platform).</li>
+    </ul>
+    <div class="proj-head">
+      <span>Task Management — Full-stack personal product</span>
+      <span class="muted">Personal</span>
+    </div>
+    <ul>
+      <li>JWT auth, teams, Kanban, comments, PostgreSQL, CI, and Docker-friendly deployment on Render.</li>
+      <li class="links">
+        Code: <a href="https://github.com/habiibullahm/task-management">github.com/habiibullahm/task-management</a>
+        · Live: <a href="https://task-management-ui-qapw.onrender.com/">task-management-ui</a>
+      </li>
+    </ul>
+
+    <h2>Technical Skills</h2>
+    <div class="skills-grid">
+      <div class="label">Backend</div>
+      <div>Java, Spring Boot, Spring Security, REST APIs, JWT, JPA/Hibernate, PostgreSQL, PostGIS, Redis</div>
+      <div class="label">Frontend</div>
+      <div>React, TypeScript, Vite, Zustand, Ant Design</div>
+      <div class="label">Mobile</div>
+      <div>React Native</div>
+      <div class="label">Platform</div>
+      <div>Docker, Git, Jenkins / GitLab CI</div>
+      <div class="label">Quality</div>
+      <div>JUnit 5, Mockito, Testcontainers, OWASP-aligned API security</div>
+    </div>
+
+    <h2>Education</h2>
+    <div class="job-head">
+      <div class="role">University of Informatics and Business Indonesia</div>
+      <div class="dates">GPA 3.61 / 4.00</div>
+    </div>
+    <p class="company">Bachelor’s degree · Business Management</p>
+  </div>
+</body>
+</html>
