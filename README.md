@@ -21,16 +21,16 @@ Full-Stack Software Engineer building end-to-end enterprise systems. Core stack:
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
+## Open-source contribution
+
+* **[PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)** (11k+ 🌟)
+  * Merged PR: [#20969](https://github.com/PipedreamHQ/pipedream/pull/20969) — Added View, Update, and Delete Ticket Summary actions for Freshdesk integration.
+
 ## Featured projects
 
 * **[task-management](https://github.com/habiibullahm/task-management)** — Fullstack personal task manager (JWT auth, task CRUD + status, PostgreSQL, CI, deployed on Render).
   * Live UI: https://task-management-ui-qapw.onrender.com/
   * API health: https://task-management-zmy7.onrender.com/api/v1/health
-
-## Open-source contribution
-
-* **[PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)** (11k+ 🌟)
-  * Merged PR: [#20969](https://github.com/PipedreamHQ/pipedream/pull/20969) — Added View, Update, and Delete Ticket Summary actions for Freshdesk integration.
 
 ## Contact
 
