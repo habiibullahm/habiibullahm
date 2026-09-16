@@ -4,7 +4,7 @@
 
 ## About me
 
-Full-Stack Software Engineer building end-to-end enterprise systems. Core stack: Java/Spring Boot, React/TypeScript, React Native, and PostgreSQL. Focused on AI integrations, OWASP security, and clean architecture.
+Full-Stack Software Engineer building end-to-end enterprise systems. Core stack: Java/Spring Boot, React/TypeScript, React Native, and PostgreSQL. On the side, I'm leveling up in AI engineering — grounded LLM features, multi-provider fallback, and structured output — through real personal projects. Focused on OWASP security and clean architecture.
 
 ## Core stack
 
@@ -28,9 +28,11 @@ Full-Stack Software Engineer building end-to-end enterprise systems. Core stack:
 
 ## Featured projects
 
-* **[task-management](https://github.com/habiibullahm/task-management)** — Fullstack personal task manager (JWT auth, task CRUD + status, PostgreSQL, CI, deployed on Render).
-  * Live UI: https://task-management-ui-qapw.onrender.com/
-  * API health: https://task-management-zmy7.onrender.com/api/v1/health
+* **[podmark](https://github.com/habiibullahm/podmark)** — Podcast tracker & learning journal with Whisper transcription (Groq) and an LLM summary grounded in the real transcript, not a title guess.
+  * Live: https://podbrain-five.vercel.app
+* **[sahamku](https://t.me/sahamku_id_bot)** — Telegram bot for IDX stock signals: rule-based technical analysis, automated market reports, and a grounded LLM `/ask` feature answering from live data.
+* **[task-management](https://github.com/habiibullahm/task-management)** — Fullstack personal task manager (JWT auth, teams, Kanban, comments, PostgreSQL). SPA on Vercel, Dockerized API on a self-managed VPS, Neon Postgres.
+  * Live: https://task-management-indol-zeta.vercel.app/
 
 ## Contact
 

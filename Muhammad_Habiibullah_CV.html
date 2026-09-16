@@ -120,7 +120,9 @@
       Full-Stack Developer with 2+ years building production enterprise web and mobile systems with
       Java/Spring Boot, React, React Native, and TypeScript. Hands-on with secure REST APIs (JWT/RBAC),
       PostgreSQL/PostGIS, Redis, Docker, and CI/CD. Ships features against live data,
-      owns debugging and production impact. Comfortable in cross-functional teams.
+      owns debugging and production impact. Comfortable in cross-functional teams. On the side, building
+      and shipping personal AI-integrated projects — grounded LLM features designed against hallucination,
+      multi-provider fallback, and structured output with parsing fallbacks.
     </p>
 
     <h2>Professional Experience</h2>
@@ -156,14 +158,35 @@
       </li>
     </ul>
     <div class="proj-head">
+      <span>PodMark — Podcast tracker &amp; learning journal</span>
+      <span class="muted">Personal</span>
+    </div>
+    <ul>
+      <li>React/TypeScript/Zustand app with Whisper transcription (Groq) and an LLM summary grounded in the real transcript instead of a title guess; Supabase auth, single-origin Vercel deploy.</li>
+      <li class="links">
+        Code: <a href="https://github.com/habiibullahm/podmark">github.com/habiibullahm/podmark</a>
+        · Live: <a href="https://podbrain-five.vercel.app">podbrain-five.vercel.app</a>
+      </li>
+    </ul>
+    <div class="proj-head">
+      <span>Sahamku — Telegram bot for IDX stock signals</span>
+      <span class="muted">Personal</span>
+    </div>
+    <ul>
+      <li>Python/aiogram bot with rule-based technical signals, automated market reports, and a conversational /ask feature grounded in live indicators and news via a swappable LLM provider (Claude/Groq); Dockerized on a self-managed VPS.</li>
+      <li class="links">
+        Live: <a href="https://t.me/sahamku_id_bot">t.me/sahamku_id_bot</a>
+      </li>
+    </ul>
+    <div class="proj-head">
       <span>Task Management — Full-stack personal product</span>
       <span class="muted">Personal</span>
     </div>
     <ul>
-      <li>JWT auth, teams, Kanban, comments, PostgreSQL, CI, and Docker-friendly deployment on Render.</li>
+      <li>JWT auth, teams, Kanban, comments, PostgreSQL; SPA on Vercel proxying to a Dockerized API on a self-managed VPS, backed by Neon.</li>
       <li class="links">
         Code: <a href="https://github.com/habiibullahm/task-management">github.com/habiibullahm/task-management</a>
-        · Live: <a href="https://task-management-ui-qapw.onrender.com/">task-management-ui</a>
+        · Live: <a href="https://task-management-indol-zeta.vercel.app/">task-management-indol-zeta.vercel.app</a>
       </li>
     </ul>
 
@@ -176,7 +199,9 @@
       <div class="label">Mobile</div>
       <div>React Native</div>
       <div class="label">Platform</div>
-      <div>Docker, Git, Jenkins / GitLab CI</div>
+      <div>Docker, Git, Jenkins / GitLab CI, Vercel, Neon, Supabase, self-managed VPS</div>
+      <div class="label">AI / LLM</div>
+      <div>Anthropic Claude, Groq (Whisper &amp; chat), SumoPod; grounded prompting, multi-provider fallback, structured output with parsing fallbacks</div>
       <div class="label">Quality</div>
       <div>JUnit 5, Mockito, Testcontainers, OWASP-aligned API security</div>
     </div>
